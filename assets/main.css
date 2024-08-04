@@ -179,7 +179,7 @@ unloaded-script {
 	--padding-horizontal: 3rem;
 	--padding-vertical: 0.375rem;
 	--spacing: 1.5rem;
-	--width: 93rem;
+	--width: 195rem;
 	border-radius: var(--border-radius-tl) var(--border-radius-tr) var(--border-radius-br) var(--border-radius-bl);
 	max-width: 100%;
 	position: relative;
